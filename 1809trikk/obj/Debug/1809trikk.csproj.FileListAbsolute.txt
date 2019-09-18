@@ -1,0 +1,7 @@
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\obj\Debug\1809trikk.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\obj\Debug\1809trikk.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\bin\Debug\1809trikk.exe.config
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\bin\Debug\1809trikk.exe
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\bin\Debug\1809trikk.pdb
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\obj\Debug\1809trikk.exe
+C:\Users\Victoria\source\repos\1809trikk\1809trikk\obj\Debug\1809trikk.pdb
