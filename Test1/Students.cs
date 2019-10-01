@@ -4,24 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1809trikk
+namespace Test1
 {
-    public class Person
+    class Students
     {
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
 
-        public ShoppingCart ShoppingCart { get; set; }
-
-        public Person(string firstName, string lastName)
+        public Students(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
 
         }
 
-        public Person()
+        public Students()
         {
         }
 

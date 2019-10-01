@@ -1,0 +1,7 @@
+C:\Users\Victoria\source\repos\1809trikk\favorite color\bin\Debug\favorite color.exe.config
+C:\Users\Victoria\source\repos\1809trikk\favorite color\bin\Debug\favorite color.exe
+C:\Users\Victoria\source\repos\1809trikk\favorite color\bin\Debug\favorite color.pdb
+C:\Users\Victoria\source\repos\1809trikk\favorite color\obj\Debug\favorite color.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\1809trikk\favorite color\obj\Debug\favorite color.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\1809trikk\favorite color\obj\Debug\favorite color.exe
+C:\Users\Victoria\source\repos\1809trikk\favorite color\obj\Debug\favorite color.pdb

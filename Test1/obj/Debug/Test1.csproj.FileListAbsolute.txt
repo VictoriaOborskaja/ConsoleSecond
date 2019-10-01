@@ -1,0 +1,10 @@
+C:\Users\Victoria\source\repos\1809trikk\Test1\bin\Debug\Test1.exe.config
+C:\Users\Victoria\source\repos\1809trikk\Test1\bin\Debug\Test1.exe
+C:\Users\Victoria\source\repos\1809trikk\Test1\bin\Debug\Test1.pdb
+C:\Users\Victoria\source\repos\1809trikk\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\1809trikk\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\1809trikk\Test1\obj\Debug\Test1.exe
+C:\Users\Victoria\source\repos\1809trikk\Test1\obj\Debug\Test1.pdb
+C:\Users\Victoria\source\repos\1809trikk\Test1\bin\Debug\TAR.txt
+C:\Users\Victoria\source\repos\1809trikk\Test1\bin\Debug\log.txt
+C:\Users\Victoria\source\repos\1809trikk\Test1\bin\Debug\tit.txt

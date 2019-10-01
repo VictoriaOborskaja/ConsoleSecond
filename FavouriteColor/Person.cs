@@ -1,18 +1,22 @@
-﻿using System;
+﻿using _1809trikk;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1809trikk
+namespace FavouriteColor
 {
-    public class Person
+    class Person
     {
+
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
 
         public ShoppingCart ShoppingCart { get; set; }
+
+        public Color FavouriteColor { get; set; }
 
         public Person(string firstName, string lastName)
         {
@@ -29,5 +33,19 @@ namespace _1809trikk
         {
             return FirstName + "" + LastName;
         }
+    }
+
+    public enum Color
+    {
+        Unknown,
+        Red,
+        Orange,
+        Yellow,
+        Green,
+        Blue,
+        Violet,
+        White,
+        Black
+
     }
 }
