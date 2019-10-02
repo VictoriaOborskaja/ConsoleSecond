@@ -1,0 +1,7 @@
+C:\Users\Victoria\source\repos\1809trikk\Test2\bin\Debug\Test2.exe.config
+C:\Users\Victoria\source\repos\1809trikk\Test2\bin\Debug\Test2.exe
+C:\Users\Victoria\source\repos\1809trikk\Test2\bin\Debug\Test2.pdb
+C:\Users\Victoria\source\repos\1809trikk\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\1809trikk\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\1809trikk\Test2\obj\Debug\Test2.exe
+C:\Users\Victoria\source\repos\1809trikk\Test2\obj\Debug\Test2.pdb
